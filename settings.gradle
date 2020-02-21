@@ -1,2 +1,2 @@
-include ':app', ':borderframelayoutlib'
+include ':borderframelayoutlib'
 rootProject.name='borderframelayout'
